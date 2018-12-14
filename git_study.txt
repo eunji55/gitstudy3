@@ -1,10 +1,9 @@
 make git_study
 2 commit
 2 local commit
-3 local commit
 3 commit
 1 dev commit
 1 master commit
-1 local commit
+1 remote commit
 2 dev commit
 3 dev commit
