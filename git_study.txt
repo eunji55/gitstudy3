@@ -7,3 +7,4 @@ make git_study
 1 remote commit
 2 dev commit
 3 dev commit
+3 local commit
